@@ -1,0 +1,24 @@
+{
+"products": [ 
+{"id":1,"name":"Common langur","category":"Fuscia"},
+{"id":2,"name":"Goldeneye, common","category":"Orange"},
+{"id":3,"name":"Greater flamingo","category":"Turquoise"},
+{"id":4,"name":"Hawk-headed parrot","category":"Goldenrod"},
+{"id":5,"name":"Glossy ibis","category":"Green"},
+{"id":6,"name":"Indian giant squirrel","category":"Fuscia"},
+{"id":7,"name":"Sloth, two-toed","category":"Yellow"},
+{"id":8,"name":"Indian leopard","category":"Red"},
+{"id":9,"name":"Seal, harbor","category":"Indigo"},
+{"id":10,"name":"Heron, grey","category":"Khaki"},
+{"id":11,"name":"Common boubou shrike","category":"Green"},
+{"id":12,"name":"Macaque, rhesus","category":"Teal"},
+{"id":13,"name":"Wolf, common","category":"Puce"},
+{"id":14,"name":"Secretary bird","category":"Pink"},
+{"id":15,"name":"Ant (unidentified)","category":"Orange"},
+{"id":16,"name":"Chuckwalla","category":"Fuscia"},
+{"id":17,"name":"Fisher","category":"Goldenrod"},
+{"id":18,"name":"Penguin, fairy","category":"Turquoise"},
+{"id":19,"name":"Zorro, common","category":"Indigo"},
+{"id":20,"name":"Red-capped cardinal","category":"Purple"}
+]
+}
